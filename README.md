@@ -1,5 +1,7 @@
 # username-scout
 
+[![tests](https://github.com/RahmaanQuresh/username-scout/actions/workflows/tests.yml/badge.svg)](https://github.com/RahmaanQuresh/username-scout/actions/workflows/tests.yml)
+
 Find out where a username exists across 15 public sites — in one command, with zero dependencies.
 
 `username-scout` asks each site one simple question: *"does a profile with this handle exist?"* Use it to pick a handle for a new account, or to audit where your own name already appears.
